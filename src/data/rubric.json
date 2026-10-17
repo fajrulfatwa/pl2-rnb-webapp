@@ -1,0 +1,687 @@
+{
+  "doc": [
+    {
+      "code": "D01",
+      "section": "Analisis peran",
+      "weight": 8.0,
+      "title": "Ketepatan peran & relasi kewenangan",
+      "evidence": "Struktur, fungsi, siapa mengambil keputusan, eskalasi.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: ketepatan peran & relasi kewenangan, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: ketepatan peran & relasi kewenangan jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: ketepatan peran & relasi kewenangan didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D02",
+      "section": "Analisis peran",
+      "weight": 7.0,
+      "title": "Keselarasan nilai & riset-bisnis",
+      "evidence": "Technopreneurship, kaderisasi, penelitian, kewirausahaan; jangan sekadar slogan.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: keselarasan nilai & riset-bisnis, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: keselarasan nilai & riset-bisnis jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: keselarasan nilai & riset-bisnis didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D03",
+      "section": "Proker & inovasi",
+      "weight": 9.0,
+      "title": "Basis masalah & prioritas",
+      "evidence": "Baseline, akar masalah, informasi evaluasi periode sebelumnya.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: basis masalah & prioritas, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: basis masalah & prioritas jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: basis masalah & prioritas didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D04",
+      "section": "Proker & inovasi",
+      "weight": 9.0,
+      "title": "OKR/KPI dan implementasi",
+      "evidence": "Objective; KR metrik-baseline-target-periode; penanggung jawab, sumber daya.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: okr/kpi dan implementasi, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: okr/kpi dan implementasi jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: okr/kpi dan implementasi didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D05",
+      "section": "Proker & inovasi",
+      "weight": 7.0,
+      "title": "Nilai tambah & kelayakan",
+      "evidence": "Perbedaan dari proker lama, manfaat, trade-off dan kapasitas.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: nilai tambah & kelayakan, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: nilai tambah & kelayakan jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: nilai tambah & kelayakan didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D06",
+      "section": "Sinergi & risiko",
+      "weight": 10.0,
+      "title": "Pemetaan sinergi konkret",
+      "evidence": "Mitra internal/eksternal, kontribusi, mekanisme komunikasi.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: pemetaan sinergi konkret, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: pemetaan sinergi konkret jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: pemetaan sinergi konkret didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D07",
+      "section": "Sinergi & risiko",
+      "weight": 10.0,
+      "title": "Matriks risiko operasional",
+      "evidence": "Probabilitas-dampak, early warning, PIC mitigasi, rencana cadangan.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: matriks risiko operasional, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: matriks risiko operasional jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: matriks risiko operasional didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D08",
+      "section": "SDM & tata kelola",
+      "weight": 10.0,
+      "title": "Kaderisasi & manajemen orang",
+      "evidence": "Kebutuhan skill, coaching, jobdesk seimbang, tindak lanjut.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: kaderisasi & manajemen orang, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: kaderisasi & manajemen orang jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: kaderisasi & manajemen orang didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D09",
+      "section": "SDM & tata kelola",
+      "weight": 10.0,
+      "title": "Tata kelola data & evaluasi",
+      "evidence": "Protokol rapat, pelaporan, Drive, SOP, kontrol kinerja.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: tata kelola data & evaluasi, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: tata kelola data & evaluasi jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: tata kelola data & evaluasi didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D10",
+      "section": "Format & disiplin",
+      "weight": 10.0,
+      "title": "Struktur & keterbacaan",
+      "evidence": "Alur masalah→solusi→indikator; visual jelas, slide proporsional.",
+      "anchors": [
+        "Tidak ada atau bertentangan dengan mandat/tugas.",
+        "Hanya pernyataan umum; tidak ada bukti/penalaran.",
+        "Ada sebagian: struktur & keterbacaan, tetapi bukti/keberlakuan masih lemah.",
+        "Baik: struktur & keterbacaan jelas, relevan dan cukup realistis; bukti dapat ditelusuri.",
+        "Sangat baik: struktur & keterbacaan didukung baseline/data, mekanisme spesifik, ukuran keberhasilan dan tindak lanjut."
+      ]
+    },
+    {
+      "code": "D11",
+      "section": "Format & disiplin",
+      "weight": 10.0,
+      "title": "D11 | Validitas berkas & bukti pengumpulan",
+      "evidence": "Periksa timestamp form/Drive, identitas/nama berkas, akses PDF dan kelengkapan. Keterlambatan/izin diputuskan panel; jangan memberi penalti administratif ganda.",
+      "anchors": [
+        "Tidak ada berkas dan tidak ada bukti pengumpulan yang dapat diverifikasi.",
+        "Klaim sudah mengumpulkan, tetapi timestamp atau berkas tidak dapat diverifikasi.",
+        "Berkas terbukti terkirim, tetapi rusak/tidak dapat diakses atau ada kekurangan substantif yang memerlukan perbaikan terverifikasi.",
+        "Berkas sah dan dapat dibuka, identitas sesuai; bukti pengumpulan terverifikasi, dengan kekurangan teknis kecil yang tidak menghambat pemeriksaan.",
+        "Berkas lengkap, identitas dan format benar, dapat diakses, timestamp terverifikasi tepat waktu ATAU memiliki pengecualian resmi yang disetujui."
+      ]
+    }
+  ],
+  "presentation": {
+    "PRESIDENT DIRECTOR": [
+      {
+        "code": "P01",
+        "weight": 25.0,
+        "title": "Visi lintas organisasi & prioritas strategis",
+        "evidence": "Strategi pengembangan riset, bisnis, dan kaderisasi tingkat organisasi serta prioritas tahunan.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P02",
+        "weight": 25.0,
+        "title": "Keputusan & representasi internal-eksternal",
+        "evidence": "Penalaran keputusan sulit, legitimasi kewenangan dan strategi kemitraan.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P03",
+        "weight": 20.0,
+        "title": "Sistem pengawasan director dan manajer",
+        "evidence": "Alur supervisi lintas bidang, milestone, data kinerja dan tindak lanjut.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P04",
+        "weight": 20.0,
+        "title": "Krisis organisasi, risiko dan alokasi sumber daya",
+        "evidence": "Respons atas konflik lintas unit, keterbatasan pendanaan atau force majeure.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P05",
+        "weight": 10.0,
+        "title": "Pertahanan gagasan & komunikasi kepemimpinan",
+        "evidence": "Jawaban berbasis alasan, mendengar pertanyaan dan menyampaikan trade-off.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      }
+    ],
+    "VICE PRESIDENT DIRECTOR": [
+      {
+        "code": "P01",
+        "weight": 25.0,
+        "title": "Stabilitas internal & harmonisasi pengurus",
+        "evidence": "Pencegahan konflik, kanal aspirasi, penanganan burnout dan pemerataan beban.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P02",
+        "weight": 25.0,
+        "title": "Pemantauan lintas departemen & proker",
+        "evidence": "Dashboard kinerja, eskalasi masalah, pola koordinasi dan follow-up.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P03",
+        "weight": 20.0,
+        "title": "Sinergi dengan President Director",
+        "evidence": "Pembagian kewenangan, dukungan keputusan dan mekanisme laporan.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P04",
+        "weight": 20.0,
+        "title": "Kesiapan mengambil alih kepemimpinan",
+        "evidence": "Skenario saat President berhalangan dan keputusan darurat yang akuntabel.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P05",
+        "weight": 10.0,
+        "title": "Pertahanan gagasan & komunikasi kepemimpinan",
+        "evidence": "Argumentasi, respons kasus dan komunikasi yang menenangkan tanpa menghindari masalah.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      }
+    ],
+    "DIRECTOR": [
+      {
+        "code": "P01",
+        "weight": 25.0,
+        "title": "Arah strategis departemen",
+        "evidence": "Visi–misi, sasaran tahunan dan keterkaitan program antar divisi.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P02",
+        "weight": 25.0,
+        "title": "Supervisi manager, indikator dan kolaborasi",
+        "evidence": "Kinerja Manager, ritme evaluasi, coaching dan koordinasi dua arah.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P03",
+        "weight": 20.0,
+        "title": "Review RAB dan pengelolaan risiko proker",
+        "evidence": "Verifikasi anggaran, prioritas, transparansi dan alternatif mitigasi.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P04",
+        "weight": 20.0,
+        "title": "Keputusan strategis dan representasi departemen",
+        "evidence": "Menyelesaikan konflik, membawa usulan/kendala ke PH dan membina kader.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P05",
+        "weight": 10.0,
+        "title": "Pertahanan gagasan & komunikasi kepemimpinan",
+        "evidence": "Argumentasi berbasis data, jawaban tanya jawab dan kejelasan prioritas.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      }
+    ],
+    "MANAGER": [
+      {
+        "code": "P01",
+        "weight": 25.0,
+        "title": "Pelaksanaan portofolio proker & OKR",
+        "evidence": "Pembagian tahapan, PIC, pencapaian KR dan evaluasi divisi.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P02",
+        "weight": 25.0,
+        "title": "Pembagian jobdesk & pembinaan anggota",
+        "evidence": "Pemetaan skill, anti-overload, umpan balik profesional, pengembangan staf.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P03",
+        "weight": 20.0,
+        "title": "Administrasi, arsip & akuntabilitas proker",
+        "evidence": "Laporan, pengarsipan Drive, dokumen, kebutuhan anggaran dan tindak lanjut.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P04",
+        "weight": 20.0,
+        "title": "Pemecahan kendala operasional & eskalasi",
+        "evidence": "Deteksi dini isu pelaksanaan, skenario perbaikan dan eskalasi ke Director.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P05",
+        "weight": 10.0,
+        "title": "Pertahanan gagasan & komunikasi manajerial",
+        "evidence": "Kejelasan instruksi, argumentasi, respons atas kasus teknis.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      }
+    ],
+    "VICE MANAGER": [
+      {
+        "code": "P01",
+        "weight": 25.0,
+        "title": "Kontrol operasional, quality assurance",
+        "evidence": "Memeriksa draf, kontrol milestone, pencatatan dan kesinambungan eksekusi.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P02",
+        "weight": 25.0,
+        "title": "Komunikasi & dukungan anggota divisi",
+        "evidence": "Golden Hours secara proporsional, cek beban dan tindak lanjut komitmen.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P03",
+        "weight": 20.0,
+        "title": "Monitoring, notulensi & sistem arsip",
+        "evidence": "Pelacakan progress staff, inventarisasi kebutuhan, folder rapat, handover.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P04",
+        "weight": 20.0,
+        "title": "Substitusi Manager & penyelesaian masalah",
+        "evidence": "Protokol mengambil alih, koordinasi dengan Manager dan tindakan saat kendala.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      },
+      {
+        "code": "P05",
+        "weight": 10.0,
+        "title": "Pertahanan gagasan & komunikasi operasional",
+        "evidence": "Keterampilan menjelaskan keputusan, mendengar kendala, solusi konkret.",
+        "anchors": [
+          "Tidak merespons atau bertentangan dengan mandat.",
+          "Jawaban generik; keputusan tidak memiliki alasan dan langkah jelas.",
+          "Memahami sebagian persoalan; langkah/tanggung jawab belum lengkap.",
+          "Mampu menjelaskan skenario, keputusan, mekanisme dan indikator realistis.",
+          "Argumentasi tajam & teruji: mengantisipasi alternatif, risiko, PIC, ukuran hasil dan batas wewenang."
+        ]
+      }
+    ]
+  },
+  "groups": [
+    {
+      "id": "GDO-PRES",
+      "type": "GDO",
+      "position": "PRESIDENT DIRECTOR",
+      "unit": "Organisasi",
+      "scope": "Arah strategis menyeluruh; alokasi sumber daya; 3 departemen + Administrasi; riset & bisnis; tata kelola.",
+      "examples": "Visi-misi; peta proker lintas unit; KPI organisasi; strategi sumber dana & relasi; roadmap 100 hari.",
+      "source": "Buku Putih hlm. 98–105; GDO Lentera Cipta 2026.",
+      "initialCount": 3
+    },
+    {
+      "id": "GDO-VP",
+      "type": "GDO",
+      "position": "VICE PRESIDENT DIRECTOR",
+      "unit": "Organisasi",
+      "scope": "Konsolidasi pengurus; pemantauan lintas bidang; jalur eskalasi; pengganti President.",
+      "examples": "Ritme koordinasi PH/BPH; mekanisme konflik; rencana pemerataan beban; protokol acting president.",
+      "source": "Guidebook hlm. 7; Buku Putih hlm. 103.",
+      "initialCount": 0
+    },
+    {
+      "id": "GDB-HRD",
+      "type": "GDB",
+      "position": "DIRECTOR",
+      "unit": "HRD",
+      "scope": "Departemen membawahi Edukasi dan Akreditasi; kurikulum, pembinaan, indeks kompetensi kader.",
+      "examples": "Keterkaitan PL/I-Class/IKK; peningkatan kualitas kader, supervisi manager dan monitoring keaktifan.",
+      "source": "GDB HRD 2026; Buku Putih hlm. 105, 115–123.",
+      "initialCount": 5
+    },
+    {
+      "id": "GDB-RND",
+      "type": "GDB",
+      "position": "DIRECTOR",
+      "unit": "RnD",
+      "scope": "Departemen membawahi Internal Project dan External Project; ekosistem riset-bisnis & dampak sosial.",
+      "examples": "Pipeline kompetisi/riset, perencanaan proker project, kemitraan pengabdian, indikator manfaat.",
+      "source": "GDB R&D 2026; Buku Putih hlm. 89.",
+      "initialCount": 5
+    },
+    {
+      "id": "GDB-NET",
+      "type": "GDB",
+      "position": "DIRECTOR",
+      "unit": "Networking",
+      "scope": "Departemen membawahi Media dan Public Relation; brand, komunikasi, jejaring dan kolaborasi.",
+      "examples": "Strategi kolaborasi, approval pesan, kalender media, mitra potensial dan KPI citra.",
+      "source": "GDB Networking 2026; Buku Putih hlm. 89.",
+      "initialCount": 3
+    },
+    {
+      "id": "GDD-M-ADM",
+      "type": "GDD",
+      "position": "MANAGER",
+      "unit": "Administrasi",
+      "scope": "Kesekretariatan; manajemen keuangan; surat/dokumen; inventaris dan tata kelola dana.",
+      "examples": "SOP surat masuk/keluar; pencatatan kas/RAPBO; arsip dokumen; akuntabilitas dan audit sederhana.",
+      "source": "GDD Admin 2026; Buku Putih hlm. 104–105.",
+      "initialCount": 4
+    },
+    {
+      "id": "GDD-VM-ADM",
+      "type": "GDD",
+      "position": "VICE MANAGER",
+      "unit": "Administrasi",
+      "scope": "Quality check bukti & surat; koordinasi sekretaris-bendahara; pemantauan tenggat.",
+      "examples": "Checklist validasi RAB/kas; registrasi dokumen; kontrol deadline; protokol handover Manager.",
+      "source": "GDD Admin 2026; Guidebook hlm. 9.",
+      "initialCount": 4
+    },
+    {
+      "id": "GDD-M-EDU",
+      "type": "GDD",
+      "position": "MANAGER",
+      "unit": "Edukasi",
+      "scope": "Desain kurikulum riset/bisnis, kegiatan pengembangan, capaian kompetensi kader.",
+      "examples": "Rancangan pembelajaran; hasil pre/post; PIC narasumber; target keikutsertaan dan output.",
+      "source": "GDD Edukasi 2026; Buku Putih hlm. 105–106.",
+      "initialCount": 5
+    },
+    {
+      "id": "GDD-VM-EDU",
+      "type": "GDD",
+      "position": "VICE MANAGER",
+      "unit": "Edukasi",
+      "scope": "Jaminan mutu pelaksanaan kelas/PL; komunikasi peserta; data evaluasi belajar.",
+      "examples": "Quality check modul & rundown; absensi; evaluasi sesi; bantuan koordinasi divisi.",
+      "source": "GDD Edukasi 2026; Guidebook hlm. 9.",
+      "initialCount": 6
+    },
+    {
+      "id": "GDD-M-AKR",
+      "type": "GDD",
+      "position": "MANAGER",
+      "unit": "Akreditasi",
+      "scope": "Pengukuran IKK, evaluasi objektif kinerja/partisipasi dan progres kader.",
+      "examples": "Rubrik penilaian kader; bukti/validasi; audit konsistensi; tindak lanjut pembinaan.",
+      "source": "GDD Akreditasi 2026; Buku Putih hlm. 115–120.",
+      "initialCount": 2
+    },
+    {
+      "id": "GDD-VM-AKR",
+      "type": "GDD",
+      "position": "VICE MANAGER",
+      "unit": "Akreditasi",
+      "scope": "Quality control data penilaian; kepatuhan prosedur; monitoring progress anggota.",
+      "examples": "Verifikasi arsip penilaian; rekonsiliasi data; jadwal audit mini; protokol keberatan.",
+      "source": "GDD Akreditasi 2026; Guidebook hlm. 9.",
+      "initialCount": 5
+    },
+    {
+      "id": "GDD-M-IP",
+      "type": "GDD",
+      "position": "MANAGER",
+      "unit": "Internal Project",
+      "scope": "Project internal, program kompetisi/bisnis organisasi; manajemen sumber daya project.",
+      "examples": "Timeline proyek; RAB/risiko; evaluasi output; pemerataan tugas tim; peningkatan nilai proyek.",
+      "source": "GDD Internal Project 2026; GDO Lentera Cipta.",
+      "initialCount": 2
+    },
+    {
+      "id": "GDD-VM-IP",
+      "type": "GDD",
+      "position": "VICE MANAGER",
+      "unit": "Internal Project",
+      "scope": "Operasional internal project, tindak lanjut PIC, dokumentasi & review draf project.",
+      "examples": "Daily/weekly tracker; QC proposal acara; rencana cadangan vendor/PIC; arsip hasil.",
+      "source": "GDD Internal Project 2026; Guidebook hlm. 9.",
+      "initialCount": 8
+    },
+    {
+      "id": "GDD-M-EP",
+      "type": "GDD",
+      "position": "MANAGER",
+      "unit": "Eksternal Project",
+      "scope": "Pengabdian masyarakat berbasis riset; partisipasi kompetisi dan dampak berkelanjutan.",
+      "examples": "Analisis kebutuhan mitra; indikator manfaat; budget & etika lapangan; keberlanjutan.",
+      "source": "GDD External Project 2026; Buku Putih hlm. 98–100.",
+      "initialCount": 2
+    },
+    {
+      "id": "GDD-VM-EP",
+      "type": "GDD",
+      "position": "VICE MANAGER",
+      "unit": "Eksternal Project",
+      "scope": "Koordinasi pelaksana pengabdian, verifikasi jadwal, pelaporan dan mitigasi lapangan.",
+      "examples": "Quality check proposal; izin mitra; backup kegiatan; dokumentasi output pengabdian.",
+      "source": "GDD External Project 2026; Guidebook hlm. 9.",
+      "initialCount": 6
+    },
+    {
+      "id": "GDD-M-PR",
+      "type": "GDD",
+      "position": "MANAGER",
+      "unit": "Public Relation",
+      "scope": "Humas eksternal; kemitraan, pemangku kepentingan, tata kelola komunikasi.",
+      "examples": "Peta mitra; proposal kerja sama; standar respons; indikator relasi dan reputasi.",
+      "source": "GDD Public Relation 2026; GDB Networking 2026.",
+      "initialCount": 3
+    },
+    {
+      "id": "GDD-VM-PR",
+      "type": "GDD",
+      "position": "VICE MANAGER",
+      "unit": "Public Relation",
+      "scope": "Verifikasi pesan keluar dan proposal mitra; kalender komunikasi; manajemen database.",
+      "examples": "Approval copy/surat; status follow-up relasi; update database; respons krisis sederhana.",
+      "source": "GDD Public Relation 2026; Guidebook hlm. 9.",
+      "initialCount": 8
+    },
+    {
+      "id": "GDD-M-MED",
+      "type": "GDD",
+      "position": "MANAGER",
+      "unit": "Media",
+      "scope": "Konten dan kanal digital, strategi branding, website, dokumentasi & pengelolaan aset.",
+      "examples": "Editorial plan; target keterlibatan/outcome; SOP desain; portofolio kreatif dan analitik.",
+      "source": "GDD Media 2026; GDB Networking 2026.",
+      "initialCount": 1
+    },
+    {
+      "id": "GDD-VM-MED",
+      "type": "GDD",
+      "position": "VICE MANAGER",
+      "unit": "Media",
+      "scope": "Quality assurance konten; disiplin alur produksi; pengelolaan drive aset digital.",
+      "examples": "Checklist approval; kalender unggah; evaluasi performa; back-up design/editing.",
+      "source": "GDD Media 2026; Guidebook hlm. 9.",
+      "initialCount": 0
+    }
+  ]
+}
